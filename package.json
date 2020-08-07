@@ -1,0 +1,39 @@
+{
+  "name": "mioun",
+  "version": "1.0.0",
+  "description": "Mioun Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^4.1.0",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "hastebin-gen": "^2.0.5",
+    "http": "^0.0.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.1.1",
+    "snekfetch": "^4.0.4",
+    "typescript": "^3.9.7",
+    "figlet": "^1.5.0",
+    "twemoji-parser": "^13.0.0",
+    "imageapi.js": "^1.0.9",
+    "@kagchi/kag-api": "^1.1.1",
+    "superagent": "^5.3.1",
+    "novel-segment": "^2.7.49",
+    "novelcovid": "^1.2.7",
+    "enmap": "^5.4.1",
+    "querystring": "^0.2.0",
+    "@mioun/letter-aneh": "^1.0.3-dev"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "Apache-2.0"
+}
